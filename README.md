@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on the MTH4000 Programming in Python I course at Queen Mary University of London.
+- 🌱 I’m currently learning HTML.
+- 👯 I have no current collaborations, but am always open to ideas.
+- 💬 Ask me about Python, mathematical analysis, numerical methods for differential equations.
+- 📫 How to reach me: matthew-lewis@live.co.uk .
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have visited every open London Underground station (and even a couple of closed ones!).
